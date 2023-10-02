@@ -1,2 +1,2 @@
 # Important instructions
-This is a demo repo for practicing github
+This is a demo repo for practicing github actions
